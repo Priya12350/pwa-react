@@ -3,10 +3,10 @@
 A highly scalable, Progressive Web Application foundation,boilerplate, with the best Developer Experience
 
 ## Progressive-Web-App
-#To create a PWA, you need to fulfill the following.
-#HTTPS — The app should be served over a secure network.
-#Service Worker — A script that handles network calls and asset caching.
-#A Manifest file — A JSON file with design details.
+To create a PWA, you need to fulfill the following.\
+HTTPS — The app should be served over a secure network.\
+Service Worker — A script that handles network calls and asset caching.\
+A Manifest file — A JSON file with design details.\
 ### `npm start`
 
 Runs the app in the development mode.\
